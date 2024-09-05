@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>Basic Shell Commands</h1>
+    
     <div>
         <table>
             <thead>
@@ -17,23 +18,58 @@
             <tbody>
                 <tr>
                     <td>mkdir</td>
-                    <td></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Syntax</td>
+                                <td><code>mkdir FILENAME</code></td>
+                            </tr>
+                        </table>
+                    </td>
                 </tr>
                 <tr>
                     <td>ls</td>
-                    <td></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
                 </tr>
                 <tr>
                     <td>cd</td>
-                    <td></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
                 </tr>
             </tbody>
         </table>
