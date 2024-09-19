@@ -49,7 +49,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td><code>.</code></td>
                     <td>
                         <table>
                             <tr>
@@ -60,7 +60,117 @@
                     </td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td><code>..</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>nano</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>clear</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>Tab</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>echo</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>man</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>touch</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>>></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>cat</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>rm</code></td>
                     <td>
                         <table>
                             <tr>
