@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    <h1>Basic Shell Commands</h1>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <td>Command</td>
+                    <td>Description</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>git init</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Syntax</td>
+                                <td><code>mkdir FILENAME</code></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git hash-object</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git cat-file</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git mktree</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>echo "Hello, Git" |git hash-object --stdin -w</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git hash-object <filename> -w</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git cat-file -p <hash></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git cat-file -s <hash></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>git cat-file -t <hash></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>man</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>touch</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>>></code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>cat</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>rm</code></td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
